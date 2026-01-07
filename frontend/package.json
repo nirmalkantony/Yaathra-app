@@ -1,0 +1,16 @@
+{
+  "name": "yaathra-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^12.3.0"
+  }
+}

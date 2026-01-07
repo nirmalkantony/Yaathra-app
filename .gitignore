@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log
+
+# React Native
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+
+# Metro
+.metro-health-check*
+
+# Python
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
